@@ -1,0 +1,201 @@
+body{
+    font-family: 'Graphik', Helvetica, Arial, sans-serif;
+    background-color: black;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.header{
+    background: linear-gradient(318.68deg, #0F495C 0%, #0D3640 49.72%, #08141F 100%);
+    margin: 0;
+    position: absolute;
+    top: 8em;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.login{
+    color: white;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: 600;
+    letter-spacing: 2px;
+    top: -5em;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: end;
+    right: 3em;
+    position: absolute;
+}
+
+.logLink{
+    text-decoration: none;
+    color: white;
+    object-fit: cover;
+}
+    .masthead{
+        height: 42em;
+        width: 100%;
+        margin: 0;
+        position: absolute;
+        top: -10em;
+        right: 0;
+        bottom: 0;
+        left: 0;
+    }
+
+#try{
+    object-fit: cover;
+    color: #2DBD9D;
+    font-size: .8em;
+    font-weight: 600;
+    position: absolute;
+    top: 10em;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    }
+
+    .hulu{
+        width: .8em;
+        height: auto;
+        vertical-align: middle;
+        position: absolute;
+        margin: auto;
+        top: 10em;
+        right: 18em;
+        bottom: 0;
+        left: 0;
+    }
+    
+    .watch{
+        object-fit: cover;
+        color: white;
+        font-size: 1.3em;
+        font-weight: 800;
+        position: absolute;
+        top: 13.5em;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        text-align: center;
+    }
+
+    .HBO{
+        object-fit: cover;
+        color: white;
+        font-size: .9em;
+        font-weight: 200;
+        position: absolute;
+        top: 25em;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        text-align: center;
+        letter-spacing: .05em;
+    }
+
+    .free{
+        object-fit: cover;
+        color: rgba(255, 255, 255, 0.466);;
+        font-size: .6em;
+        font-weight: 100;
+        position: absolute;
+        letter-spacing: .1em;
+        top: 11em;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        text-align: center;
+    }
+
+    .container {
+        height: 3.5em;
+        border-radius: 5%;
+        position: relative;
+        line-height: 3.5em;
+        margin: 0;
+        background-color: white;
+        width: 18em;
+        position: absolute;
+        top: 4em;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+      }
+    
+      .link{
+        color: black;
+        font-size: 1em;
+        font-weight: 600;
+        letter-spacing: .1em;
+        text-decoration: none;
+      }
+
+    .ribbon{
+        color: black;
+        text-align: left;
+        font-size: .8em;
+        width: 73%;
+        top: 40.5em;
+        margin-left: 30%;
+        margin-right: 60%;
+        position: absolute;
+        bottom: 0;
+        line-height: 1.2em;
+    }
+
+    #top{
+        color: #2DBD9D;
+        font-weight: 550;
+    }
+    .bottom{
+        color: rgba(255, 255, 255, 0.466);;
+        font-weight: 500;
+    }
+
+    .main{
+        color: white;
+        font-weight: 100;
+    }
+
+    .logos{
+        position: absolute;
+        top: 5%;
+        right: 0;
+        left: -15em;
+    }
+
+    .bundle{
+        color: white;
+        font-size: .9em;
+        top: 37.5em;
+        width: 22em;
+        margin-left: 80%;
+        position: absolute;
+        text-align: center;
+    }
+
+    .linky{
+        color: white;
+        padding: 1.5em;
+        border: .1em solid white;
+        text-decoration: none;
+        font-size: .7em;
+        letter-spacing: 1px;
+    }
+
+    .term{
+        margin: 3em;
+    }
+    .linkTerm{
+        color: rgba(255, 255, 255, 0.466);;
+    }
+
+    .background1{
+        top: 40em;
+        position: relative;
+    }
